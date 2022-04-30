@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarea 1</string>
+    <string name="a1">Activity 1</string>
+    <string name="a2">Bienvenidos a la segunda activity</string>
+    <string name="bA1">ir a Acivity 1</string>
+    <string name="bA2">ir a Acivity 2</string>
+
+</resources>
