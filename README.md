@@ -1,5 +1,5 @@
 # Tarea 1 Computación movil - UTEM
-##Equipo
+## Equipo
 ### Grupo 9
 #### Roberto Albornoz
 #### Cristóbal González
