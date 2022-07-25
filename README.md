@@ -2,4 +2,3 @@
 ## Equipo
 ### Grupo 9
 * Roberto Albornoz
-* Cristóbal González
